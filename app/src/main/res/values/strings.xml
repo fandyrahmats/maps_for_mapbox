@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BVT Submission</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmFuZHlycyIsImEiOiJja292MnA4Z2YwMmpzMm5wbWgxaWRpdzhqIn0.w9RliEWAneWDfM2Z8S4hUQ</string>
+    <string name="get_my_location">Get My Location</string>
+    <string name="permission_alert">Berikan akses untuk melanjutkan</string>
+    <string name="searching_location">Mencari lokasi ...</string>
+    <string name="found_location">Mendapatkan lokasi</string>
+    <string name="action_copy_location">SALIN LOKASI</string>
+    <string name="location_copied">Lokasi tersalin</string>
+</resources>
